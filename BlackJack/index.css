@@ -1,0 +1,31 @@
+/* Complete the CSS styling according to the provided design */
+
+body {
+  /*   background: url(images/table.png);
+ */
+  color: white;
+  text-align: center;
+  /*   background-size: cover;
+ */
+  font-weight: bold;
+  background: green;
+}
+
+h1 {
+  color: goldenrod;
+}
+
+#message-el {
+  font-style: italic;
+}
+
+button {
+  width: 150px;
+  color: #016f32;
+  background: goldenrod;
+  margin: 2px;
+  padding: 10px;
+  font-weight: bold;
+  border: none;
+  border-radius: 2px;
+}
